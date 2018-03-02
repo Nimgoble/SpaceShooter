@@ -65,7 +65,10 @@ DerivedDataCache
 Intermediate
 Saved
 Content/*
-!Content/ThirdPersonCPP
+!Content/Flying
+!Content/FlyingCPP
+!Content/SciFiParticlePack
+!Content/DynamicGravity
 
 *.db
 *.bak
